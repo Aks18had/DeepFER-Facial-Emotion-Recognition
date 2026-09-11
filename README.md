@@ -49,17 +49,17 @@ The pipeline can be extended for real-time emotion-aware applications.
 **Python · TensorFlow/Keras · CNN · MobileNetV2 · OpenCV · NumPy · Matplotlib · Scikit-learn · Google Colab**
 
 ## 🚀 How to Run
-Open the notebook in Google Colab.
-Mount Google Drive.
-Place the dataset in the required folder.
-Run the notebook cells sequentially.
+- Open the notebook in Google Colab.
+- Mount Google Drive.
+- Place the dataset in the required folder.
+- Run the notebook cells sequentially.
 
 ## 🔮 Future Improvements
-Higher-resolution images
-Fine-tuned pretrained models
-Improved class balancing
-Stronger CNN architectures
-Real-time deployment
+- Higher-resolution images
+- Fine-tuned pretrained models
+- Improved class balancing
+- Stronger CNN architectures
+- Real-time deployment
 
 
 ## 👨‍💻 Author
